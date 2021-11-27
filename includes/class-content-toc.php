@@ -185,7 +185,7 @@ class TOC {
 			'list_class'      => 'hm-content-toc-list',
 			'list_item_tag'   => 'li',
 			'list_item_class' => 'hm-content-toc-item',
-			'title_tag'       => 'h3',
+			'title_tag'       => 'b',
 			'title_class'     => 'hm-content-toc-title',
 			'title'           => $option['title'],
 			'anchor_class'    => 'hm-content-toc-anchor',
